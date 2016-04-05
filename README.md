@@ -21,7 +21,7 @@ $ mkdir new-project && cd $_
 Finally, initiate the generator:
 
 ```
-$ yo koa-serve
+$ yo yintai-koa
 ```
 
 ## Start
