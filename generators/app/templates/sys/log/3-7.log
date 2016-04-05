@@ -1,0 +1,318 @@
+[2016-03-07 18:46:08.753] [INFO] app - /Users/joe/generator-koa-serve/generators/app/templates/resource/
+
+[2016-03-07 18:46:09.003] [INFO] app - /Users/joe/generator-koa-serve/generators/app/templates/resource/
+
+[2016-03-07 18:46:09.013] [INFO] app - /Users/joe/generator-koa-serve/generators/app/templates/resource/
+
+[2016-03-07 18:46:12.994] [INFO] app - /Users/joe/generator-koa-serve/generators/app/templates/controller/index.js
+
+[2016-03-07 18:46:13.002] [INFO] app - 1
+
+[2016-03-07 18:46:13.005] [ERROR] app - 
+
+[2016-03-07 18:46:13.005] [ERROR] app -   Error: ENOENT: no such file or directory, open '/Users/joe/generator-koa-serve/generators/app/templates/sys/view/index.html'
+      at Error (native)
+
+
+[2016-03-07 18:47:01.282] [INFO] app - /Users/joe/generator-koa-serve/generators/app/templates/resource/
+
+[2016-03-07 18:47:01.580] [INFO] app - /Users/joe/generator-koa-serve/generators/app/templates/resource/
+
+[2016-03-07 18:47:01.609] [INFO] app - /Users/joe/generator-koa-serve/generators/app/templates/resource/
+
+[2016-03-07 18:47:04.176] [INFO] app - /Users/joe/generator-koa-serve/generators/app/templates/controller/index.js
+
+[2016-03-07 18:47:04.184] [INFO] app - 1
+
+[2016-03-07 18:47:04.249] [INFO] app - /Users/joe/generator-koa-serve/generators/app/templates/controller/css.js
+
+[2016-03-07 18:47:04.257] [INFO] app - /Users/joe/generator-koa-serve/generators/app/templates/controller/page.js
+
+[2016-03-07 18:47:04.262] [INFO] app - /Users/joe/generator-koa-serve/generators/app/templates/controller/js.js
+
+[2016-03-07 18:47:04.276] [INFO] app - /Users/joe/generator-koa-serve/generators/app/templates/controller/css.js
+
+[2016-03-07 18:47:04.318] [INFO] app - /Users/joe/generator-koa-serve/generators/app/templates/controller/js.js
+
+[2016-03-07 18:48:28.204] [INFO] app - /Users/joe/generator-koa-serve/generators/app/templates/controller/index.js
+
+[2016-03-07 18:48:28.210] [INFO] app - 1
+
+[2016-03-07 18:48:28.266] [INFO] app - /Users/joe/generator-koa-serve/generators/app/templates/controller/css.js
+
+[2016-03-07 18:48:28.267] [INFO] app - /Users/joe/generator-koa-serve/generators/app/templates/controller/page.js
+
+[2016-03-07 18:48:28.268] [INFO] app - /Users/joe/generator-koa-serve/generators/app/templates/controller/js.js
+
+[2016-03-07 18:48:28.269] [INFO] app - /Users/joe/generator-koa-serve/generators/app/templates/controller/css.js
+
+[2016-03-07 18:48:28.270] [INFO] app - /Users/joe/generator-koa-serve/generators/app/templates/controller/js.js
+
+[2016-03-07 18:49:27.330] [INFO] app - /Users/joe/generator-koa-serve/generators/app/templates/controller/index.js
+
+[2016-03-07 18:49:27.339] [INFO] app - 1
+
+[2016-03-07 18:49:27.393] [INFO] app - /Users/joe/generator-koa-serve/generators/app/templates/controller/css.js
+
+[2016-03-07 18:49:27.399] [INFO] app - /Users/joe/generator-koa-serve/generators/app/templates/controller/page.js
+
+[2016-03-07 18:49:27.406] [INFO] app - /Users/joe/generator-koa-serve/generators/app/templates/controller/js.js
+
+[2016-03-07 18:49:27.421] [INFO] app - /Users/joe/generator-koa-serve/generators/app/templates/controller/css.js
+
+[2016-03-07 18:49:27.427] [INFO] app - /Users/joe/generator-koa-serve/generators/app/templates/controller/js.js
+
+[2016-03-07 18:49:39.038] [INFO] app - /Users/joe/generator-koa-serve/generators/app/templates/controller/page.js
+
+[2016-03-07 18:50:28.500] [INFO] app - /Users/joe/generator-koa-serve/generators/app/templates/controller/page.js
+
+[2016-03-07 18:50:30.365] [INFO] app - /Users/joe/generator-koa-serve/generators/app/templates/controller/index.js
+
+[2016-03-07 18:50:30.376] [INFO] app - 1
+
+[2016-03-07 18:50:30.445] [INFO] app - /Users/joe/generator-koa-serve/generators/app/templates/controller/css.js
+
+[2016-03-07 18:50:30.446] [INFO] app - /Users/joe/generator-koa-serve/generators/app/templates/controller/js.js
+
+[2016-03-07 18:50:30.449] [INFO] app - /Users/joe/generator-koa-serve/generators/app/templates/controller/js.js
+
+[2016-03-07 18:50:47.824] [INFO] app - /Users/joe/generator-koa-serve/generators/app/templates/controller/index.js
+
+[2016-03-07 18:50:47.825] [INFO] app - 1
+
+[2016-03-07 18:50:47.879] [INFO] app - /Users/joe/generator-koa-serve/generators/app/templates/controller/css.js
+
+[2016-03-07 18:50:47.880] [INFO] app - /Users/joe/generator-koa-serve/generators/app/templates/controller/css.js
+
+[2016-03-07 18:50:47.880] [INFO] app - /Users/joe/generator-koa-serve/generators/app/templates/controller/page.js
+
+[2016-03-07 18:50:47.881] [INFO] app - /Users/joe/generator-koa-serve/generators/app/templates/controller/js.js
+
+[2016-03-07 18:50:47.883] [INFO] app - /Users/joe/generator-koa-serve/generators/app/templates/controller/js.js
+
+[2016-03-07 18:51:40.429] [INFO] app - /Users/joe/generator-koa-serve/generators/app/templates/controller/index.js
+
+[2016-03-07 18:51:40.445] [INFO] app - 1
+
+[2016-03-07 18:51:40.532] [INFO] app - /Users/joe/generator-koa-serve/generators/app/templates/controller/css.js
+
+[2016-03-07 18:51:40.540] [INFO] app - /Users/joe/generator-koa-serve/generators/app/templates/controller/page.js
+
+[2016-03-07 18:51:40.543] [INFO] app - /Users/joe/generator-koa-serve/generators/app/templates/controller/js.js
+
+[2016-03-07 18:51:40.564] [INFO] app - /Users/joe/generator-koa-serve/generators/app/templates/controller/css.js
+
+[2016-03-07 18:51:40.571] [INFO] app - /Users/joe/generator-koa-serve/generators/app/templates/controller/js.js
+
+[2016-03-07 18:53:31.542] [INFO] app - /Users/joe/generator-koa-serve/generators/app/templates/controller/index.js
+
+[2016-03-07 18:53:31.552] [INFO] app - 1
+
+[2016-03-07 18:53:31.651] [INFO] app - /Users/joe/generator-koa-serve/generators/app/templates/controller/css.js
+
+[2016-03-07 18:53:31.657] [INFO] app - /Users/joe/generator-koa-serve/generators/app/templates/controller/page.js
+
+[2016-03-07 18:53:31.666] [INFO] app - /Users/joe/generator-koa-serve/generators/app/templates/controller/css.js
+
+[2016-03-07 18:53:31.674] [INFO] app - /Users/joe/generator-koa-serve/generators/app/templates/controller/js.js
+
+[2016-03-07 18:53:31.691] [INFO] app - /Users/joe/generator-koa-serve/generators/app/templates/controller/js.js
+
+[2016-03-07 18:53:41.522] [INFO] app - /Users/joe/generator-koa-serve/generators/app/templates/controller/page.js
+
+[2016-03-07 18:54:14.663] [INFO] app - /Users/joe/generator-koa-serve/generators/app/templates/controller/index.js
+
+[2016-03-07 18:54:14.682] [INFO] app - 1
+
+[2016-03-07 18:54:14.795] [INFO] app - /Users/joe/generator-koa-serve/generators/app/templates/controller/css.js
+
+[2016-03-07 18:54:14.802] [INFO] app - /Users/joe/generator-koa-serve/generators/app/templates/controller/page.js
+
+[2016-03-07 18:54:14.812] [INFO] app - /Users/joe/generator-koa-serve/generators/app/templates/controller/css.js
+
+[2016-03-07 18:54:14.821] [INFO] app - /Users/joe/generator-koa-serve/generators/app/templates/controller/lib.js
+
+[2016-03-07 18:54:14.842] [INFO] app - /Users/joe/generator-koa-serve/generators/app/templates/controller/lib.js
+
+[2016-03-07 18:56:35.313] [INFO] app - /Users/joe/generator-koa-serve/generators/app/templates/controller/index.js
+
+[2016-03-07 18:56:35.323] [INFO] app - 1
+
+[2016-03-07 18:56:35.429] [INFO] app - /Users/joe/generator-koa-serve/generators/app/templates/controller/css.js
+
+[2016-03-07 18:56:35.439] [INFO] app - /Users/joe/generator-koa-serve/generators/app/templates/controller/lib.js
+
+[2016-03-07 18:56:35.455] [INFO] app - /Users/joe/generator-koa-serve/generators/app/templates/controller/css.js
+
+[2016-03-07 18:56:35.484] [INFO] app - /Users/joe/generator-koa-serve/generators/app/templates/controller/lib.js
+
+[2016-03-07 18:57:47.080] [INFO] app - /Users/joe/generator-koa-serve/generators/app/templates/controller/index.js
+
+[2016-03-07 18:57:47.096] [INFO] app - 1
+
+[2016-03-07 18:57:47.200] [INFO] app - /Users/joe/generator-koa-serve/generators/app/templates/controller/css.js
+
+[2016-03-07 18:57:47.223] [INFO] app - /Users/joe/generator-koa-serve/generators/app/templates/controller/css.js
+
+[2016-03-07 18:57:47.234] [INFO] app - /Users/joe/generator-koa-serve/generators/app/templates/controller/lib.js
+
+[2016-03-07 18:57:47.250] [INFO] app - /Users/joe/generator-koa-serve/generators/app/templates/controller/lib.js
+
+[2016-03-07 18:57:48.040] [INFO] app - /Users/joe/generator-koa-serve/generators/app/templates/controller/index.js
+
+[2016-03-07 18:57:48.052] [INFO] app - 1
+
+[2016-03-07 18:57:48.139] [INFO] app - /Users/joe/generator-koa-serve/generators/app/templates/controller/css.js
+
+[2016-03-07 18:57:48.146] [INFO] app - /Users/joe/generator-koa-serve/generators/app/templates/controller/css.js
+
+[2016-03-07 18:57:48.149] [INFO] app - /Users/joe/generator-koa-serve/generators/app/templates/controller/lib.js
+
+[2016-03-07 18:57:48.151] [INFO] app - /Users/joe/generator-koa-serve/generators/app/templates/controller/lib.js
+
+[2016-03-07 18:57:49.481] [INFO] app - /Users/joe/generator-koa-serve/generators/app/templates/controller/index.js
+
+[2016-03-07 18:57:49.484] [INFO] app - 1
+
+[2016-03-07 18:57:49.550] [INFO] app - /Users/joe/generator-koa-serve/generators/app/templates/controller/css.js
+
+[2016-03-07 18:57:49.556] [INFO] app - /Users/joe/generator-koa-serve/generators/app/templates/controller/lib.js
+
+[2016-03-07 18:57:49.557] [INFO] app - /Users/joe/generator-koa-serve/generators/app/templates/controller/css.js
+
+[2016-03-07 18:57:49.571] [INFO] app - /Users/joe/generator-koa-serve/generators/app/templates/controller/lib.js
+
+[2016-03-07 18:57:50.808] [INFO] app - /Users/joe/generator-koa-serve/generators/app/templates/controller/index.js
+
+[2016-03-07 18:57:50.809] [INFO] app - 1
+
+[2016-03-07 18:57:50.893] [INFO] app - /Users/joe/generator-koa-serve/generators/app/templates/controller/css.js
+
+[2016-03-07 18:57:50.895] [INFO] app - /Users/joe/generator-koa-serve/generators/app/templates/controller/lib.js
+
+[2016-03-07 18:57:50.898] [INFO] app - /Users/joe/generator-koa-serve/generators/app/templates/controller/css.js
+
+[2016-03-07 18:57:50.899] [INFO] app - /Users/joe/generator-koa-serve/generators/app/templates/controller/lib.js
+
+[2016-03-07 18:58:52.584] [INFO] app - /Users/joe/generator-koa-serve/generators/app/templates/controller/index.js
+
+[2016-03-07 18:58:52.587] [INFO] app - 1
+
+[2016-03-07 18:58:52.646] [INFO] app - /Users/joe/generator-koa-serve/generators/app/templates/controller/css.js
+
+[2016-03-07 18:58:52.647] [INFO] app - /Users/joe/generator-koa-serve/generators/app/templates/controller/css.js
+
+[2016-03-07 18:58:59.652] [INFO] app - /Users/joe/generator-koa-serve/generators/app/templates/controller/index.js
+
+[2016-03-07 18:58:59.653] [INFO] app - 1
+
+[2016-03-07 18:58:59.717] [INFO] app - /Users/joe/generator-koa-serve/generators/app/templates/controller/css.js
+
+[2016-03-07 18:58:59.720] [INFO] app - /Users/joe/generator-koa-serve/generators/app/templates/controller/css.js
+
+[2016-03-07 18:59:43.707] [INFO] app - /Users/joe/generator-koa-serve/generators/app/templates/controller/index.js
+
+[2016-03-07 18:59:43.713] [INFO] app - 1
+
+[2016-03-07 18:59:43.795] [INFO] app - /Users/joe/generator-koa-serve/generators/app/templates/controller/css.js
+
+[2016-03-07 18:59:43.825] [INFO] app - /Users/joe/generator-koa-serve/generators/app/templates/controller/css.js
+
+[2016-03-07 19:00:30.071] [INFO] app - /Users/joe/generator-koa-serve/generators/app/templates/controller/index.js
+
+[2016-03-07 19:00:30.077] [INFO] app - 1
+
+[2016-03-07 19:00:30.162] [INFO] app - /Users/joe/generator-koa-serve/generators/app/templates/controller/css.js
+
+[2016-03-07 19:00:30.165] [INFO] app - /Users/joe/generator-koa-serve/generators/app/templates/controller/css.js
+
+[2016-03-07 19:00:31.307] [INFO] app - /Users/joe/generator-koa-serve/generators/app/templates/controller/index.js
+
+[2016-03-07 19:00:31.308] [INFO] app - 1
+
+[2016-03-07 19:00:31.381] [INFO] app - /Users/joe/generator-koa-serve/generators/app/templates/controller/css.js
+
+[2016-03-07 19:00:31.382] [INFO] app - /Users/joe/generator-koa-serve/generators/app/templates/controller/css.js
+
+[2016-03-07 19:00:52.594] [INFO] app - /Users/joe/generator-koa-serve/generators/app/templates/controller/index.js
+
+[2016-03-07 19:00:52.596] [INFO] app - 1
+
+[2016-03-07 19:00:52.672] [INFO] app - /Users/joe/generator-koa-serve/generators/app/templates/controller/css.js
+
+[2016-03-07 19:00:52.673] [INFO] app - /Users/joe/generator-koa-serve/generators/app/templates/controller/css.js
+
+[2016-03-07 19:01:48.074] [INFO] app - /Users/joe/generator-koa-serve/generators/app/templates/controller/index.js
+
+[2016-03-07 19:01:48.083] [INFO] app - 1
+
+[2016-03-07 19:01:48.160] [INFO] app - /Users/joe/generator-koa-serve/generators/app/templates/controller/css.js
+
+[2016-03-07 19:01:48.188] [INFO] app - /Users/joe/generator-koa-serve/generators/app/templates/controller/css.js
+
+[2016-03-07 19:01:48.274] [INFO] app - /Users/joe/generator-koa-serve/generators/app/templates/controller/lib.js
+
+[2016-03-07 19:02:01.560] [INFO] app - /Users/joe/generator-koa-serve/generators/app/templates/controller/index.js
+
+[2016-03-07 19:02:01.572] [INFO] app - 1
+
+[2016-03-07 19:02:01.650] [INFO] app - /Users/joe/generator-koa-serve/generators/app/templates/controller/css.js
+
+[2016-03-07 19:02:01.652] [INFO] app - /Users/joe/generator-koa-serve/generators/app/templates/controller/css.js
+
+[2016-03-07 19:02:01.759] [INFO] app - /Users/joe/generator-koa-serve/generators/app/templates/controller/js.js
+
+[2016-03-07 19:02:08.653] [INFO] app - /Users/joe/generator-koa-serve/generators/app/templates/controller/js.js
+
+[2016-03-07 19:02:09.850] [INFO] app - /Users/joe/generator-koa-serve/generators/app/templates/controller/js.js
+
+[2016-03-07 19:02:11.091] [INFO] app - /Users/joe/generator-koa-serve/generators/app/templates/controller/index.js
+
+[2016-03-07 19:02:11.093] [INFO] app - 1
+
+[2016-03-07 19:02:11.159] [INFO] app - /Users/joe/generator-koa-serve/generators/app/templates/controller/css.js
+
+[2016-03-07 19:02:11.161] [INFO] app - /Users/joe/generator-koa-serve/generators/app/templates/controller/css.js
+
+[2016-03-07 19:02:11.238] [INFO] app - /Users/joe/generator-koa-serve/generators/app/templates/controller/js.js
+
+[2016-03-08 09:38:41.996] [INFO] app - /Users/joe/generator-koa-serve/generators/app/templates/controller/index.js
+
+[2016-03-08 09:38:41.997] [INFO] app - 1
+
+[2016-03-08 09:38:42.076] [INFO] app - /Users/joe/generator-koa-serve/generators/app/templates/controller/css.js
+
+[2016-03-08 09:38:42.077] [INFO] app - /Users/joe/generator-koa-serve/generators/app/templates/controller/css.js
+
+[2016-03-08 09:38:42.152] [INFO] app - /Users/joe/generator-koa-serve/generators/app/templates/controller/js.js
+
+[2016-03-08 09:39:24.015] [INFO] app - /Users/joe/generator-koa-serve/generators/app/templates/controller/index.js
+
+[2016-03-08 09:39:24.016] [INFO] app - 1
+
+[2016-03-08 09:39:24.108] [INFO] app - /Users/joe/generator-koa-serve/generators/app/templates/controller/css.js
+
+[2016-03-08 09:39:24.111] [INFO] app - /Users/joe/generator-koa-serve/generators/app/templates/controller/css.js
+
+[2016-03-08 09:39:24.291] [INFO] app - /Users/joe/generator-koa-serve/generators/app/templates/controller/lib.js
+
+[2016-03-08 09:43:33.697] [INFO] app - /Users/joe/generator-koa-serve/generators/app/templates/controller/index.js
+
+[2016-03-08 09:43:33.698] [INFO] app - 1
+
+[2016-03-08 09:43:33.778] [INFO] app - /Users/joe/generator-koa-serve/generators/app/templates/controller/css.js
+
+[2016-03-08 09:43:33.779] [INFO] app - /Users/joe/generator-koa-serve/generators/app/templates/controller/css.js
+
+[2016-03-08 09:43:38.672] [INFO] app - /Users/joe/generator-koa-serve/generators/app/templates/controller/index.js
+
+[2016-03-08 09:43:38.674] [INFO] app - 1
+
+[2016-03-08 09:43:38.752] [INFO] app - /Users/joe/generator-koa-serve/generators/app/templates/controller/css.js
+
+[2016-03-08 09:43:38.754] [INFO] app - /Users/joe/generator-koa-serve/generators/app/templates/controller/css.js
+
+[2016-03-08 09:44:05.201] [INFO] app - /Users/joe/generator-koa-serve/generators/app/templates/controller/index.js
+
+[2016-03-08 09:44:05.201] [INFO] app - 1
+

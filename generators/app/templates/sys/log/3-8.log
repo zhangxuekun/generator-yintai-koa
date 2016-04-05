@@ -1,0 +1,682 @@
+[2016-03-08 09:53:21.092] [ERROR] app - events.js:141
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: bind EADDRINUSE null:3000
+    at Object.exports._errnoException (util.js:855:11)
+    at exports._exceptionWithHostPort (util.js:878:20)
+    at cb (net.js:1302:16)
+    at rr (cluster.js:594:14)
+    at Worker.<anonymous> (cluster.js:564:9)
+    at process.<anonymous> (cluster.js:714:8)
+    at emitTwo (events.js:92:20)
+    at process.emit (events.js:172:7)
+    at handleMessage (internal/child_process.js:686:10)
+    at Pipe.channel.onread (internal/child_process.js:440:11)
+
+[2016-03-08 09:53:21.095] [ERROR] app - events.js:141
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: bind EADDRINUSE null:3000
+    at Object.exports._errnoException (util.js:855:11)
+    at exports._exceptionWithHostPort (util.js:878:20)
+    at cb (net.js:1302:16)
+    at rr (cluster.js:594:14)
+    at Worker.<anonymous> (cluster.js:564:9)
+    at process.<anonymous> (cluster.js:714:8)
+    at emitTwo (events.js:92:20)
+    at process.emit (events.js:172:7)
+    at handleMessage (internal/child_process.js:686:10)
+    at Pipe.channel.onread (internal/child_process.js:440:11)
+
+[2016-03-08 09:53:21.293] [ERROR] app - events.js:141
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: bind EADDRINUSE null:3000
+    at Object.exports._errnoException (util.js:855:11)
+    at exports._exceptionWithHostPort (util.js:878:20)
+    at cb (net.js:1302:16)
+    at rr (cluster.js:594:14)
+
+[2016-03-08 09:53:21.293] [ERROR] app -     at Worker.<anonymous> (cluster.js:564:9)
+    at process.<anonymous> (cluster.js:714:8)
+    at emitTwo (events.js:92:20)
+    at process.emit (events.js:172:7)
+    at handleMessage (internal/child_process.js:686:10)
+    at Pipe.channel.onread (internal/child_process.js:440:11)
+
+[2016-03-08 09:53:21.299] [ERROR] app - events.js:141
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: bind EADDRINUSE null:3000
+    at Object.exports._errnoException (util.js:855:11)
+    at exports._exceptionWithHostPort (util.js:878:20)
+    at cb (net.js:1302:16)
+    at rr (cluster.js:594:14)
+    at Worker.<anonymous> (cluster.js:564:9)
+    at process.<anonymous> (cluster.js:714:8)
+    at emitTwo (events.js:92:20)
+    at process.emit (events.js:172:7)
+
+[2016-03-08 09:53:21.299] [ERROR] app -     at handleMessage (internal/child_process.js:686:10)
+    at Pipe.channel.onread (internal/child_process.js:440:11)
+
+[2016-03-08 09:53:21.498] [ERROR] app - events.js:141
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: bind EADDRINUSE null:3000
+    at Object.exports._errnoException (util.js:855:11)
+    at exports._exceptionWithHostPort (util.js:878:20)
+
+[2016-03-08 09:53:21.498] [ERROR] app -     at cb (net.js:1302:16)
+    at rr (cluster.js:594:14)
+    at Worker.<anonymous> (cluster.js:564:9)
+    at process.<anonymous> (cluster.js:714:8)
+    at emitTwo (events.js:92:20)
+    at process.emit (events.js:172:7)
+    at handleMessage (internal/child_process.js:686:10)
+    at Pipe.channel.onread (internal/child_process.js:440:11)
+
+[2016-03-08 09:53:21.504] [ERROR] app - events.js:141
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: bind EADDRINUSE null:3000
+    at Object.exports._errnoException (util.js:855:11)
+    at exports._exceptionWithHostPort (util.js:878:20)
+    at cb (net.js:1302:16)
+    at rr (cluster.js:594:14)
+    at Worker.<anonymous> (cluster.js:564:9)
+    at process.<anonymous> (cluster.js:714:8)
+    at emitTwo (events.js:92:20)
+
+[2016-03-08 09:53:21.504] [ERROR] app -     at process.emit (events.js:172:7)
+    at handleMessage (internal/child_process.js:686:10)
+    at Pipe.channel.onread (internal/child_process.js:440:11)
+
+[2016-03-08 09:53:21.702] [ERROR] app - events.js:141
+      throw er; // Unhandled 'error' event
+
+[2016-03-08 09:53:21.702] [ERROR] app -       ^
+
+Error: bind EADDRINUSE null:3000
+    at Object.exports._errnoException (util.js:855:11)
+    at exports._exceptionWithHostPort (util.js:878:20)
+    at cb (net.js:1302:16)
+    at rr (cluster.js:594:14)
+    at Worker.<anonymous> (cluster.js:564:9)
+    at process.<anonymous> (cluster.js:714:8)
+    at emitTwo (events.js:92:20)
+    at process.emit (events.js:172:7)
+    at handleMessage (internal/child_process.js:686:10)
+    at Pipe.channel.onread (internal/child_process.js:440:11)
+
+[2016-03-08 09:53:21.711] [ERROR] app - events.js:141
+
+[2016-03-08 09:53:21.711] [ERROR] app -       throw er; // Unhandled 'error' event
+      ^
+
+Error: bind EADDRINUSE null:3000
+    at Object.exports._errnoException (util.js:855:11)
+    at exports._exceptionWithHostPort (util.js:878:20)
+    at cb (net.js:1302:16)
+    at rr (cluster.js:594:14)
+    at Worker.<anonymous> (cluster.js:564:9)
+    at process.<anonymous> (cluster.js:714:8)
+    at emitTwo (events.js:92:20)
+    at process.emit (events.js:172:7)
+    at handleMessage (internal/child_process.js:686:10)
+    at Pipe.channel.onread (internal/child_process.js:440:11)
+
+[2016-03-08 09:53:21.902] [ERROR] app - events.js:141
+
+[2016-03-08 09:53:21.903] [ERROR] app -       throw er; // Unhandled 'error' event
+      ^
+
+Error: bind EADDRINUSE null:3000
+    at Object.exports._errnoException (util.js:855:11)
+    at exports._exceptionWithHostPort (util.js:878:20)
+    at cb (net.js:1302:16)
+    at rr (cluster.js:594:14)
+    at Worker.<anonymous> (cluster.js:564:9)
+    at process.<anonymous> (cluster.js:714:8)
+    at emitTwo (events.js:92:20)
+    at process.emit (events.js:172:7)
+    at handleMessage (internal/child_process.js:686:10)
+    at Pipe.channel.onread (internal/child_process.js:440:11)
+
+[2016-03-08 09:53:21.912] [ERROR] app - events.js:141
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: bind EADDRINUSE null:3000
+    at Object.exports._errnoException (util.js:855:11)
+    at exports._exceptionWithHostPort (util.js:878:20)
+    at cb (net.js:1302:16)
+    at rr (cluster.js:594:14)
+    at Worker.<anonymous> (cluster.js:564:9)
+
+[2016-03-08 09:53:21.913] [ERROR] app -     at process.<anonymous> (cluster.js:714:8)
+    at emitTwo (events.js:92:20)
+    at process.emit (events.js:172:7)
+    at handleMessage (internal/child_process.js:686:10)
+    at Pipe.channel.onread (internal/child_process.js:440:11)
+
+[2016-03-08 09:53:22.107] [ERROR] app - events.js:141
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: bind EADDRINUSE null:3000
+    at Object.exports._errnoException (util.js:855:11)
+    at exports._exceptionWithHostPort (util.js:878:20)
+    at cb (net.js:1302:16)
+
+[2016-03-08 09:53:22.108] [ERROR] app -     at rr (cluster.js:594:14)
+    at Worker.<anonymous> (cluster.js:564:9)
+    at process.<anonymous> (cluster.js:714:8)
+    at emitTwo (events.js:92:20)
+    at process.emit (events.js:172:7)
+    at handleMessage (internal/child_process.js:686:10)
+    at Pipe.channel.onread (internal/child_process.js:440:11)
+
+[2016-03-08 09:53:22.109] [ERROR] app - events.js:141
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: bind EADDRINUSE null:3000
+    at Object.exports._errnoException (util.js:855:11)
+    at exports._exceptionWithHostPort (util.js:878:20)
+    at cb (net.js:1302:16)
+    at rr (cluster.js:594:14)
+    at Worker.<anonymous> (cluster.js:564:9)
+    at process.<anonymous> (cluster.js:714:8)
+    at emitTwo (events.js:92:20)
+    at process.emit (events.js:172:7)
+    at handleMessage (internal/child_process.js:686:10)
+    at Pipe.channel.onread (internal/child_process.js:440:11)
+
+[2016-03-08 09:53:22.306] [ERROR] app - events.js:141
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: bind EADDRINUSE null:3000
+    at Object.exports._errnoException (util.js:855:11)
+    at exports._exceptionWithHostPort (util.js:878:20)
+    at cb (net.js:1302:16)
+    at rr (cluster.js:594:14)
+    at Worker.<anonymous> (cluster.js:564:9)
+    at process.<anonymous> (cluster.js:714:8)
+    at emitTwo (events.js:92:20)
+    at process.emit (events.js:172:7)
+    at handleMessage (internal/child_process.js:686:10)
+    at Pipe.channel.onread (internal/child_process.js:440:11)
+
+[2016-03-08 09:53:22.308] [ERROR] app - events.js:141
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: bind EADDRINUSE null:3000
+    at Object.exports._errnoException (util.js:855:11)
+
+[2016-03-08 09:53:22.309] [ERROR] app -     at exports._exceptionWithHostPort (util.js:878:20)
+    at cb (net.js:1302:16)
+    at rr (cluster.js:594:14)
+    at Worker.<anonymous> (cluster.js:564:9)
+    at process.<anonymous> (cluster.js:714:8)
+    at emitTwo (events.js:92:20)
+    at process.emit (events.js:172:7)
+    at handleMessage (internal/child_process.js:686:10)
+    at Pipe.channel.onread (internal/child_process.js:440:11)
+
+[2016-03-08 09:53:22.507] [ERROR] app - events.js:141
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: bind EADDRINUSE null:3000
+    at Object.exports._errnoException (util.js:855:11)
+    at exports._exceptionWithHostPort (util.js:878:20)
+    at cb (net.js:1302:16)
+
+[2016-03-08 09:53:22.508] [ERROR] app -     at rr (cluster.js:594:14)
+    at Worker.<anonymous> (cluster.js:564:9)
+    at process.<anonymous> (cluster.js:714:8)
+    at emitTwo (events.js:92:20)
+    at process.emit (events.js:172:7)
+    at handleMessage (internal/child_process.js:686:10)
+    at Pipe.channel.onread (internal/child_process.js:440:11)
+
+[2016-03-08 09:53:22.509] [ERROR] app - events.js:141
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: bind EADDRINUSE null:3000
+    at Object.exports._errnoException (util.js:855:11)
+    at exports._exceptionWithHostPort (util.js:878:20)
+    at cb (net.js:1302:16)
+    at rr (cluster.js:594:14)
+    at Worker.<anonymous> (cluster.js:564:9)
+    at process.<anonymous> (cluster.js:714:8)
+    at emitTwo (events.js:92:20)
+
+[2016-03-08 09:53:22.510] [ERROR] app -     at process.emit (events.js:172:7)
+    at handleMessage (internal/child_process.js:686:10)
+    at Pipe.channel.onread (internal/child_process.js:440:11)
+
+[2016-03-08 09:53:22.712] [ERROR] app - events.js:141
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: bind EADDRINUSE null:3000
+    at Object.exports._errnoException (util.js:855:11)
+    at exports._exceptionWithHostPort (util.js:878:20)
+    at cb (net.js:1302:16)
+    at rr (cluster.js:594:14)
+    at Worker.<anonymous> (cluster.js:564:9)
+    at process.<anonymous> (cluster.js:714:8)
+    at emitTwo (events.js:92:20)
+    at process.emit (events.js:172:7)
+
+[2016-03-08 09:53:22.713] [ERROR] app -     at handleMessage (internal/child_process.js:686:10)
+    at Pipe.channel.onread (internal/child_process.js:440:11)
+
+[2016-03-08 09:53:22.715] [ERROR] app - events.js:141
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: bind EADDRINUSE null:3000
+    at Object.exports._errnoException (util.js:855:11)
+
+[2016-03-08 09:53:22.716] [ERROR] app -     at exports._exceptionWithHostPort (util.js:878:20)
+    at cb (net.js:1302:16)
+    at rr (cluster.js:594:14)
+    at Worker.<anonymous> (cluster.js:564:9)
+    at process.<anonymous> (cluster.js:714:8)
+    at emitTwo (events.js:92:20)
+    at process.emit (events.js:172:7)
+    at handleMessage (internal/child_process.js:686:10)
+    at Pipe.channel.onread (internal/child_process.js:440:11)
+
+[2016-03-08 09:53:22.915] [ERROR] app - events.js:141
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: bind EADDRINUSE null:3000
+    at Object.exports._errnoException (util.js:855:11)
+    at exports._exceptionWithHostPort (util.js:878:20)
+    at cb (net.js:1302:16)
+    at rr (cluster.js:594:14)
+    at Worker.<anonymous> (cluster.js:564:9)
+    at process.<anonymous> (cluster.js:714:8)
+    at emitTwo (events.js:92:20)
+    at process.emit (events.js:172:7)
+    at handleMessage (internal/child_process.js:686:10)
+    at Pipe.channel.onread (internal/child_process.js:440:11)
+
+[2016-03-08 09:53:22.922] [ERROR] app - events.js:141
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: bind EADDRINUSE null:3000
+    at Object.exports._errnoException (util.js:855:11)
+    at exports._exceptionWithHostPort (util.js:878:20)
+    at cb (net.js:1302:16)
+
+[2016-03-08 09:53:22.922] [ERROR] app -     at rr (cluster.js:594:14)
+    at Worker.<anonymous> (cluster.js:564:9)
+    at process.<anonymous> (cluster.js:714:8)
+    at emitTwo (events.js:92:20)
+    at process.emit (events.js:172:7)
+    at handleMessage (internal/child_process.js:686:10)
+    at Pipe.channel.onread (internal/child_process.js:440:11)
+
+[2016-03-08 09:53:23.117] [ERROR] app - events.js:141
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: bind EADDRINUSE null:3000
+    at Object.exports._errnoException (util.js:855:11)
+    at exports._exceptionWithHostPort (util.js:878:20)
+    at cb (net.js:1302:16)
+    at rr (cluster.js:594:14)
+    at Worker.<anonymous> (cluster.js:564:9)
+    at process.<anonymous> (cluster.js:714:8)
+    at emitTwo (events.js:92:20)
+
+[2016-03-08 09:53:23.117] [ERROR] app -     at process.emit (events.js:172:7)
+    at handleMessage (internal/child_process.js:686:10)
+    at Pipe.channel.onread (internal/child_process.js:440:11)
+
+[2016-03-08 09:53:23.127] [ERROR] app - events.js:141
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: bind EADDRINUSE null:3000
+    at Object.exports._errnoException (util.js:855:11)
+    at exports._exceptionWithHostPort (util.js:878:20)
+    at cb (net.js:1302:16)
+    at rr (cluster.js:594:14)
+    at Worker.<anonymous> (cluster.js:564:9)
+    at process.<anonymous> (cluster.js:714:8)
+    at emitTwo (events.js:92:20)
+    at process.emit (events.js:172:7)
+    at handleMessage (internal/child_process.js:686:10)
+
+[2016-03-08 09:53:23.127] [ERROR] app -     at Pipe.channel.onread (internal/child_process.js:440:11)
+
+[2016-03-08 09:53:31.155] [INFO] app - /Users/joe/generator-koa-serve/generators/app/templates/controller/index.js
+
+[2016-03-08 09:53:31.162] [INFO] app - 1
+
+[2016-03-08 09:53:49.609] [INFO] app - /Users/joe/generator-koa-serve/generators/app/templates/controller/index.js
+
+[2016-03-08 09:53:49.615] [INFO] app - 1
+
+[2016-03-08 09:54:43.648] [INFO] app - /Users/joe/generator-koa-serve/generators/app/templates/controller/index.js
+
+[2016-03-08 09:54:43.658] [INFO] app - 1
+
+[2016-03-08 09:55:15.187] [INFO] app - /Users/joe/generator-koa-serve/generators/app/templates/controller/index.js
+
+[2016-03-08 09:55:15.193] [INFO] app - 1
+
+[2016-03-08 09:55:18.462] [INFO] app - /Users/joe/generator-koa-serve/generators/app/templates/controller/index.js
+
+[2016-03-08 09:55:18.463] [INFO] app - 1
+
+[2016-03-08 09:55:30.608] [INFO] app - /Users/joe/generator-koa-serve/generators/app/templates/controller/index.js
+
+[2016-03-08 09:55:30.609] [INFO] app - 1
+
+[2016-03-08 09:56:01.961] [INFO] app - /Users/joe/generator-koa-serve/generators/app/templates/controller/index.js
+
+[2016-03-08 09:56:01.964] [INFO] app - 1
+
+[2016-03-08 09:56:05.759] [INFO] app - /Users/joe/generator-koa-serve/generators/app/templates/controller/index.js
+
+[2016-03-08 09:56:05.760] [INFO] app - 1
+
+[2016-03-08 09:58:16.509] [INFO] app - /Users/joe/generator-koa-serve/generators/app/templates/controller/index.js
+
+[2016-03-08 09:58:16.510] [INFO] app - 1
+
+[2016-03-08 09:58:17.281] [INFO] app - /Users/joe/generator-koa-serve/generators/app/templates/controller/index.js
+
+[2016-03-08 09:58:17.281] [INFO] app - 1
+
+[2016-03-08 09:58:17.971] [INFO] app - /Users/joe/generator-koa-serve/generators/app/templates/controller/index.js
+
+[2016-03-08 09:58:17.973] [INFO] app - 1
+
+[2016-03-08 10:05:44.490] [INFO] app - /Users/joe/generator-koa-serve/generators/app/templates/controller/index.js
+
+[2016-03-08 10:05:44.496] [INFO] app - 1
+
+[2016-03-08 10:07:18.570] [INFO] app - /Users/joe/generator-koa-serve/generators/app/templates/controller/index.js
+
+[2016-03-08 10:07:18.577] [INFO] app - 1
+
+[2016-03-08 10:07:18.642] [INFO] app - /Users/joe/generator-koa-serve/generators/app/templates/controller/lib.js
+
+[2016-03-08 10:07:40.439] [INFO] app - /Users/joe/generator-koa-serve/generators/app/templates/controller/index.js
+
+[2016-03-08 10:07:40.446] [INFO] app - 1
+
+[2016-03-08 10:08:08.008] [INFO] app - /Users/joe/generator-koa-serve/generators/app/templates/controller/index.js
+
+[2016-03-08 10:08:08.015] [INFO] app - 1
+
+[2016-03-08 10:08:28.429] [INFO] app - /Users/joe/generator-koa-serve/generators/app/templates/controller/index.js
+
+[2016-03-08 10:08:28.435] [INFO] app - 1
+
+[2016-03-08 10:08:43.447] [INFO] app - /Users/joe/generator-koa-serve/generators/app/templates/controller/index.js
+
+[2016-03-08 10:08:43.461] [INFO] app - 1
+
+[2016-03-08 10:09:14.929] [INFO] app - /Users/joe/generator-koa-serve/generators/app/templates/controller/index.js
+
+[2016-03-08 10:09:14.930] [INFO] app - 1
+
+[2016-03-08 10:11:12.244] [INFO] app - /Users/joe/generator-koa-serve/generators/app/templates/controller/index.js
+
+[2016-03-08 10:11:12.244] [INFO] app - 1
+
+[2016-03-08 10:11:15.543] [INFO] app - /Users/joe/generator-koa-serve/generators/app/templates/controller/index.js
+
+[2016-03-08 10:11:15.545] [INFO] app - 1
+
+[2016-03-08 10:12:26.381] [INFO] app - /Users/joe/generator-koa-serve/generators/app/templates/controller/index.js
+
+[2016-03-08 10:12:26.382] [INFO] app - 1
+
+[2016-03-08 10:12:27.173] [INFO] app - /Users/joe/generator-koa-serve/generators/app/templates/controller/index.js
+
+[2016-03-08 10:12:27.174] [INFO] app - 1
+
+[2016-03-08 10:12:41.242] [INFO] app - /Users/joe/generator-koa-serve/generators/app/templates/controller/index.js
+
+[2016-03-08 10:12:41.243] [INFO] app - 1
+
+[2016-03-08 10:15:14.407] [INFO] app - /Users/joe/generator-koa-serve/generators/app/templates/controller/index.js
+
+[2016-03-08 10:15:14.407] [INFO] app - 1
+
+[2016-03-08 10:15:16.696] [INFO] app - /Users/joe/generator-koa-serve/generators/app/templates/controller/index.js
+
+[2016-03-08 10:15:16.697] [INFO] app - 1
+
+[2016-03-08 10:15:18.677] [INFO] app - /Users/joe/generator-koa-serve/generators/app/templates/controller/index.js
+
+[2016-03-08 10:15:18.678] [INFO] app - 1
+
+[2016-03-08 10:15:19.133] [INFO] app - /Users/joe/generator-koa-serve/generators/app/templates/controller/index.js
+
+[2016-03-08 10:15:19.134] [INFO] app - 1
+
+[2016-03-08 10:15:22.064] [INFO] app - /Users/joe/generator-koa-serve/generators/app/templates/controller/index.js
+
+[2016-03-08 10:15:22.065] [INFO] app - 1
+
+[2016-03-08 10:15:22.906] [INFO] app - /Users/joe/generator-koa-serve/generators/app/templates/controller/index.js
+
+[2016-03-08 10:15:22.907] [INFO] app - 1
+
+[2016-03-08 10:15:24.945] [INFO] app - /Users/joe/generator-koa-serve/generators/app/templates/controller/index.js
+
+[2016-03-08 10:15:24.946] [INFO] app - 1
+
+[2016-03-08 10:15:25.342] [INFO] app - /Users/joe/generator-koa-serve/generators/app/templates/controller/index.js
+
+[2016-03-08 10:15:25.343] [INFO] app - 1
+
+[2016-03-08 10:22:53.353] [INFO] app - /Users/joe/generator-koa-serve/generators/app/templates/controller/index.js
+
+[2016-03-08 10:22:53.361] [INFO] app - 1
+
+[2016-03-08 10:23:22.284] [INFO] app - /Users/joe/generator-koa-serve/generators/app/templates/controller/index.js
+
+[2016-03-08 10:23:22.292] [INFO] app - 1
+
+[2016-03-08 10:24:39.759] [INFO] app - /Users/joe/generator-koa-serve/generators/app/templates/controller/index.js
+
+[2016-03-08 10:24:39.769] [INFO] app - 1
+
+[2016-03-08 10:25:37.310] [INFO] app - /Users/joe/generator-koa-serve/generators/app/templates/controller/index.js
+
+[2016-03-08 10:25:37.312] [INFO] app - 1
+
+[2016-03-08 10:26:04.185] [INFO] app - /Users/joe/generator-koa-serve/generators/app/templates/controller/index.js
+
+[2016-03-08 10:26:04.193] [INFO] app - 1
+
+[2016-03-08 10:26:19.637] [INFO] app - /Users/joe/generator-koa-serve/generators/app/templates/controller/index.js
+
+[2016-03-08 10:26:19.647] [INFO] app - 1
+
+[2016-03-08 10:26:31.748] [INFO] app - /Users/joe/generator-koa-serve/generators/app/templates/controller/index.js
+
+[2016-03-08 10:26:31.750] [INFO] app - 1
+
+[2016-03-08 10:27:49.857] [INFO] app - /Users/joe/generator-koa-serve/generators/app/templates/controller/index.js
+
+[2016-03-08 10:27:49.858] [INFO] app - 1
+
+[2016-03-08 10:28:29.760] [INFO] app - /Users/joe/generator-koa-serve/generators/app/templates/controller/index.js
+
+[2016-03-08 10:28:29.761] [INFO] app - 1
+
+[2016-03-08 10:28:32.614] [INFO] app - /Users/joe/generator-koa-serve/generators/app/templates/controller/index.js
+
+[2016-03-08 10:28:32.615] [INFO] app - 1
+
+[2016-03-08 10:28:37.169] [INFO] app - /Users/joe/generator-koa-serve/generators/app/templates/controller/index.js
+
+[2016-03-08 10:28:37.170] [INFO] app - 1
+
+[2016-03-08 10:28:56.562] [INFO] app - /Users/joe/generator-koa-serve/generators/app/templates/controller/index.js
+
+[2016-03-08 10:28:56.563] [INFO] app - 1
+
+[2016-03-08 10:29:35.130] [INFO] app - /Users/joe/generator-koa-serve/generators/app/templates/controller/index.js
+
+[2016-03-08 10:29:35.130] [INFO] app - 1
+
+[2016-03-08 10:29:54.470] [INFO] app - /Users/joe/generator-koa-serve/generators/app/templates/controller/index.js
+
+[2016-03-08 10:29:54.471] [INFO] app - 1
+
+[2016-03-08 10:36:44.559] [INFO] app - /Users/joe/generator-koa-serve/generators/app/templates/controller/index.js
+
+[2016-03-08 10:36:44.566] [INFO] app - 1
+
+[2016-03-08 10:49:05.071] [INFO] app - /Users/joe/generator-koa-serve/generators/app/templates/controller/index.js
+
+[2016-03-08 10:49:05.078] [INFO] app - 1
+
+[2016-03-08 10:50:07.411] [INFO] app - /Users/joe/generator-koa-serve/generators/app/templates/controller/index.js
+
+[2016-03-08 10:50:07.419] [INFO] app - 1
+
+[2016-03-08 10:50:19.652] [INFO] app - /Users/joe/generator-koa-serve/generators/app/templates/controller/index.js
+
+[2016-03-08 10:50:19.653] [INFO] app - 1
+
+[2016-03-08 13:38:45.613] [ERROR] app - module.js:328
+    throw err;
+    ^
+
+Error: Cannot find module 'koa-livereload'
+    at Function.Module._resolveFilename (module.js:326:15)
+    at Function.Module._load (module.js:277:25)
+    at Module.require (module.js:354:17)
+    at require (internal/module.js:12:17)
+    at module.exports (/Users/joe/generator-koa-serve/generators/app/templates/sys/app.js:13:21)
+    at Object.<anonymous> (/Users/joe/generator-koa-serve/generators/app/templates/bin/www.js:5:40)
+    at Module._compile (module.js:398:26)
+    at Object.Module._extensions..js (module.js:405:10)
+    at Module.load (module.js:344:32)
+    at Function.Module._load (module.js:301:12)
+
+[2016-03-08 13:39:22.096] [ERROR] app - module.js:328
+    throw err;
+    ^
+
+Error: Cannot find module 'koa-livereload'
+    at Function.Module._resolveFilename (module.js:326:15)
+    at Function.Module._load (module.js:277:25)
+    at Module.require (module.js:354:17)
+    at require (internal/module.js:12:17)
+    at module.exports (/Users/joe/generator-koa-serve/generators/app/templates/sys/app.js:13:21)
+    at Object.<anonymous> (/Users/joe/generator-koa-serve/generators/app/templates/bin/www.js:5:40)
+    at Module._compile (module.js:398:26)
+    at Object.Module._extensions..js (module.js:405:10)
+    at Module.load (module.js:344:32)
+    at Function.Module._load (module.js:301:12)
+
+[2016-03-08 13:40:50.027] [ERROR] app - module.js:328
+    throw err;
+    ^
+
+Error: Cannot find module 'koa-livereload'
+    at Function.Module._resolveFilename (module.js:326:15)
+    at Function.Module._load (module.js:277:25)
+    at Module.require (module.js:354:17)
+    at require (internal/module.js:12:17)
+    at module.exports (/Users/joe/generator-koa-serve/generators/app/templates/sys/app.js:13:21)
+    at Object.<anonymous> (/Users/joe/generator-koa-serve/generators/app/templates/bin/www.js:5:40)
+    at Module._compile (module.js:398:26)
+    at Object.Module._extensions..js (module.js:405:10)
+    at Module.load (module.js:344:32)
+    at Function.Module._load (module.js:301:12)
+
+[2016-03-08 13:41:50.316] [ERROR] app - module.js:328
+    throw err;
+    ^
+
+Error: Cannot find module './config'
+    at Function.Module._resolveFilename (module.js:326:15)
+    at Function.Module._load (module.js:277:25)
+    at Module.require (module.js:354:17)
+    at require (internal/module.js:12:17)
+    at module.exports (/Users/joe/generator-koa-serve/generators/app/templates/sys/app.js:14:19)
+    at Object.<anonymous> (/Users/joe/generator-koa-serve/generators/app/templates/bin/www.js:5:40)
+    at Module._compile (module.js:398:26)
+    at Object.Module._extensions..js (module.js:405:10)
+    at Module.load (module.js:344:32)
+    at Function.Module._load (module.js:301:12)
+
+[2016-03-08 13:42:46.290] [INFO] app - /Users/joe/generator-koa-serve/generators/app/templates/controller/index.js
+
+[2016-03-08 13:42:46.301] [INFO] app - 1
+
+[2016-03-08 13:43:01.662] [INFO] app - /Users/joe/generator-koa-serve/generators/app/templates/controller/index.js
+1
+
+[2016-03-08 13:53:41.923] [ERROR] app - /Users/joe/generator-koa-serve/generators/app/templates/sys/middleware/router.js:38
+        absolutePath = `${path.resolve(__dirname,relativePath)}.js`;
+                                                                   ^
+
+SyntaxError: Identifier 'method' has already been declared
+    at exports.runInThisContext (vm.js:53:16)
+    at Module._compile (module.js:374:25)
+    at Object.Module._extensions..js (module.js:405:10)
+    at Module.load (module.js:344:32)
+    at Function.Module._load (module.js:301:12)
+    at Module.require (module.js:354:17)
+    at require (internal/module.js:12:17)
+    at module.exports (/Users/joe/generator-koa-serve/generators/app/templates/sys/app.js:87:10)
+    at Object.<anonymous> (/Users/joe/generator-koa-serve/generators/app/templates/bin/www.js:5:40)
+    at Module._compile (module.js:398:26)
+
+[2016-03-08 13:54:13.274] [ERROR] app - /Users/joe/generator-koa-serve/generators/app/templates/sys/middleware/router.js:39
+    method == 'post' && action = `${method}#${action}`;
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+ReferenceError: Invalid left-hand side in assignment
+    at exports.runInThisContext (vm.js:53:16)
+    at Module._compile (module.js:374:25)
+    at Object.Module._extensions..js (module.js:405:10)
+    at Module.load (module.js:344:32)
+    at Function.Module._load (module.js:301:12)
+    at Module.require (module.js:354:17)
+    at require (internal/module.js:12:17)
+    at module.exports (/Users/joe/generator-koa-serve/generators/app/templates/sys/app.js:87:10)
+    at Object.<anonymous> (/Users/joe/generator-koa-serve/generators/app/templates/bin/www.js:5:40)
+    at Module._compile (module.js:398:26)
+
+[2016-03-08 13:54:40.412] [INFO] app - 1
+
+[2016-03-08 13:55:03.245] [INFO] app - 1
+
+[2016-03-08 13:58:19.360] [INFO] app - 1
+
+[2016-03-08 13:58:49.941] [INFO] app - 1
+
+[2016-03-08 13:58:50.240] [INFO] app - 1
+
+[2016-03-08 14:10:48.375] [INFO] app - 1
+
