@@ -43,7 +43,7 @@ $ npm test
 ## add ad view
 
 ```
-$ yo koa-serve:view
+$ yo yintai-koa:view
 ```
 
 
